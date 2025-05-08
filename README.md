@@ -35,7 +35,7 @@ To align it with the rear wall, I added washers to the rear-most mounting points
 
 - With the current dimensions, the maximum belt width is 15 mm.
 
-- The adapter has a large diameter and features aabout a 10:1 reduction ratio.
+- The adapter has a large diameter and provides approximately a 10:1 reduction ratio.
 As a result, the motor’s sensor will rotate over a wide range, so it’s important to align the sensor to zero before performing calibration.
 
 - Use the pins with ball bearings to align the belt as shown in the figure.
