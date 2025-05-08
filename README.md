@@ -17,4 +17,20 @@ This allows access to the USB port and enables use of the rudder's basic functio
   2. Drill holes in the horizontal bar to attach the printed part.
 It is recommended to use the adapter as a template for drilling the holes, and then tap them with an M8 thread.
 
+  3. Posizionare il motore sul TOP della pedaliera usando un apposito bracket. Per l-allineamento alla parete posteriore ho usato degli spessori (washer)
+  
+  4. Prevedere una barra di profilato alluminio 2020 per far scorrere dei perni dotati di cuscinetti a sfera
+
 ![image](https://github.com/user-attachments/assets/abddb199-b57a-4705-bcef-22846791570f)
+
+![image](https://github.com/user-attachments/assets/7942e5c2-89e7-4928-9da3-f9548814c757)
+
+![image](https://github.com/user-attachments/assets/199e9bbf-db30-42c6-a09c-3d6c42016824)
+
+![image](https://github.com/user-attachments/assets/fbaef9a5-b230-44a4-a121-425e8468cb01)
+
+![image](https://github.com/user-attachments/assets/85903938-0b53-48e1-8836-d8104a5ea136)
+
+
+# Preparation
+# Installation
