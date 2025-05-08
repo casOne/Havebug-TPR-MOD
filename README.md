@@ -38,9 +38,9 @@ With the current dimensions, the maximum belt width is 15 mm.
 Use the pins with ball bearings to align the belt as shown in the figure.
 This step is very important because it allows you to:
 
-  1. Ensure proper belt tension. It should not be too tight — when pressing with a finger, the belt should deflect by approximately 5 mm.
+  1. Ensure proper belt tension. When pressing with a finger, the belt should deflect by approximately 3-4 mm.
 
-  2. Maintain good grip on the motor-side pulley teeth.
+  2. Maintain good grip on the motor-side pulley teeth: to prevent the belt from slipping and losing calibration under heavy loads due to poor grip
 
   3. Ensure consistent belt length throughout the entire pedal travel.
 
